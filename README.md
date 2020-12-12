@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by AJ Fedie
 
 
-### ©️2019 Run Buddy, Inc
+### ©️2019 Run Buddy, Inc.
